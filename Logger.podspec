@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name             = 'Logger'
   s.version          = '0.0.1'
   s.summary          = 'Project Logger'
-  s.swift_version       = '4.2'
+  s.swift_versions  = '4.2'
   s.description      = <<-DESC
 This is logger framework
                        DESC
