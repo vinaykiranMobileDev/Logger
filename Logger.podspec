@@ -13,6 +13,6 @@ This is logger framework
   s.source           = { :git => 'https://github.com/vinaykiranMobileDev/Logger.git', :tag => s.version.to_s }
  
   s.ios.deployment_target = '10.0'
-  s.source_files = 'Logger/CoreLog.swift'
+  s.source_files = 'Logger/**/*.{swift,h,m}'
  
 end
